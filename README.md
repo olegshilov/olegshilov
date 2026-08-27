@@ -4,13 +4,6 @@
 
 I build frontends, run a small fleet of self-hosted services, and spend my free time making AI agents do useful things instead of just chatting. Based on Earth 🌍, currently exploring what "ai-native" actually means in practice.
 
-### 🔭 Currently
-
-- 🤖 Building **[right-agent](https://github.com/olegshilov/right-agent)** — multi-agent runner on top of a Claude subscription, sandboxed by default, with a polished Telegram UI
-- 🏡 Running a home lab (`homelab-setup`, `vps-setup`, `og-home-dockers`) — self-hosted first, cloud second
-- 💼 Shipping frontend for [haqq-network](https://github.com/haqq-network)
-- 🌐 This profile lives at [olegshilov.com](https://olegshilov.com)
-
 ### 🛠️ Stack
 
 <div align="center">
