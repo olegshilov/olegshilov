@@ -14,6 +14,7 @@ Operations are supervised by **Valera**, Chief Keyboard Officer.
 - **Load testing** — the desk, continuously, at full body weight
 - **Incident escalation** — 4 AM, no pager required
 - **Deploy strategy** — walk across keyboard, force push, leave
+
 SLA: none. Uptime: whenever there's sun on the windowsill.
  
 ---
