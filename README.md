@@ -1,8 +1,6 @@
-<div align="center">
+# Hi, I'm Oleg 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Oleg+%F0%9F%91%8B;ai-native+%C2%B7+self-hosted+%C2%B7+cat-powered+%F0%9F%90%88%E2%80%8D%E2%AC%9B;Building+agents+%2B+breaking+homelabs" alt="Typing SVG" />
-
-</div>
+**ai-native · self-hosted · cat-powered 🐈‍⬛**
 
 I build frontends, run a small fleet of self-hosted services, and spend my free time making AI agents do useful things instead of just chatting. Based on Earth 🌍, currently exploring what "ai-native" actually means in practice.
 
