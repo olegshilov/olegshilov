@@ -27,21 +27,6 @@ I build frontends, run a small fleet of self-hosted services, and spend my free 
 
 </div>
 
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=olegshilov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oleg's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegshilov&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=olegshilov&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
-
-</div>
-
 ### 📫 Reach me
 
 <div align="center">
